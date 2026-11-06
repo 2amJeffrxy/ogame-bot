@@ -1,6 +1,6 @@
 # 🚀 ogame-bot - Automate Your OGame Empire Effortlessly
 
-[![Download ogame-bot](https://img.shields.io/badge/Download-ogame--bot-ff69b4?style=for-the-badge&logo=github)](https://github.com/2amJeffrxy/ogame-bot)
+[![Download ogame-bot](https://img.shields.io/badge/Download-ogame--bot-ff69b4?style=for-the-badge&logo=github)](https://github.com/2amJeffrxy/ogame-bot/releases)
 
 Kepler is an OGame bot built by long-time players. It helps with auto build, research, expeditions, raiding, fleet save and defence, plus .ank scripting. Kepler runs on Windows, Linux, macOS, or hosted setups and includes a 7-day free trial. This README is written for everyday Windows users who want a clear path from download to first launch.
 
@@ -23,7 +23,7 @@ The project is built by people who have played OGame for a long time, so the fea
 
 ## 🖥️ Windows Download and Run
 
-Visit this link to download the application: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot).
+Visit this link to download the application: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot/releases).
 
 This is the main download page for the project. On Windows, use this page to get Kepler. After the download finishes, open Kepler from your Downloads folder. Follow the on-screen prompts to start the 7-day free trial. The core automation features do not require you to write code.
 
@@ -31,7 +31,7 @@ This is the main download page for the project. On Windows, use this page to get
 
 When Kepler opens for the first time, take a few minutes to go through the setup screens carefully. The app# 🚀 ogame-bot - Automate Your OGame Empire Effortlessly
 
-[![Download ogame-bot](https://img.shields.io/badge/Download-ogame--bot-ff69b4?style=for-the-badge&logo=github)](https://github.com/2amJeffrxy/ogame-bot)
+[![Download ogame-bot](https://img.shields.io/badge/Download-ogame--bot-ff69b4?style=for-the-badge&logo=github)](https://github.com/2amJeffrxy/ogame-bot/releases)
 
 Kepler is an OGame bot built by long-time players. It handles auto build, research, expeditions, raiding, fleet save and defence, plus .ank scripting. Kepler runs on Windows, Linux, macOS, or hosted setups and includes a 7-day free trial. This page is written for everyday Windows users who want a simple, clear path from download to first launch.
 
@@ -54,7 +54,7 @@ The project is made by people who have played OGame for a long time, so the feat
 
 ## 💾 Windows Download and Run
 
-Visit this link to download the application: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot).
+Visit this link to download the application: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot/releases).
 
 This is the main project page for ogame-bot. Use it to reach the download for Kepler. After the download finishes, open Kepler from your Downloads folder or wherever your browser saves files. Follow the on-screen prompts to begin the 7-day free trial. The core automation features do not require you to write code.
 
@@ -98,7 +98,7 @@ Use Kepler within the rules that apply to your OGame account and server. The pro
 
 **Which systems are supported?** Windows, Linux, macOS, and hosted setups are part of the project scope. This README focuses on Windows because that is the most common starting point.
 
-**Where do I download it?** Visit the project page: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot).
+**Where do I download it?** Visit the project page: [Download ogame-bot](https://github.com/2amJeffrxy/ogame-bot/releases).
 
 **What should I enable first?** Start with auto build and research, then add fleet save and defence for protection. Add raiding once you are comfortable with the basics.
 
@@ -106,7 +106,7 @@ Use Kepler within the rules that apply to your OGame account and server. The pro
 
 ## 📌 Quick Start Recap
 
-1. Visit [the ogame-bot project page](https://github.com/2amJeffrxy/ogame-bot) to download the application.
+1. Visit [the ogame-bot project page](https://github.com/2amJeffrxy/ogame-bot/releases) to download the application.
 2. Open Kepler on your Windows computer.
 3. Follow the first-launch prompts and start the 7-day free trial.
 4. Enable auto build and research first.
